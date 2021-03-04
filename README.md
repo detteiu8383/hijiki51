@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=hijiki51)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **hijiki51/hijiki51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
